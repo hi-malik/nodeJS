@@ -1,0 +1,8 @@
+hello worldHey There
+Hey There
+function now() { [native code] } Hey There
+1698069812119 Hey There
+1698069865858 Hey There
+
+
+1698069903194 Hey There
