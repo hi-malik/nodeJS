@@ -1,0 +1,33 @@
+I've reviewed your resume, Himanshu Malik. Here's a summary of your key qualifications and experiences:
+
+### Education
+- **Coventry University**: Bachelor of Science in Computer Science (First Class Honors), from January 2019 to May 2022.
+
+### Professional Experience
+- **CISCO, London, UK** (April 2023 - June 2023): Software Developer. Worked on a Django + DRF project, managed API for annotators and qualifications, and provided Kubernetes configuration and support.
+- **ReConvert, New York, USA** (Feb 2023 - April 2023): Software Developer. Developed UI features using React JS and built reusable components.
+- **ARKITER, London, UK** (Oct 2022 - Jan 2023): Front-End Developer. Focused on building user experiences with React, React Native, and JavaScript.
+- **LeetCode, California, USA** (Aug 2021 - Aug 2022): Full-Stack Java Developer. Engineered microservices in Java using Spring Boot, and implemented dynamic user interfaces with JavaScript.
+- **AMAZON, Coventry, UK** (Oct 2020 - July 2021): Information Technology Engineer. Managed computer setups and troubleshooting in a warehouse setting.
+- **Figbytes, Ottawa, Canada** (March 2020 - Sept 2020): Frontend Developer. Worked on web solutions using Angular, Typescript, ASP.NET, and C#.
+
+### Technical Skills
+- **Languages**: Java, Typescript, Kotlin, Python, C, C++, Carbon, SQL, JavaScript, HTML/CSS, R, MATLAB, SwiftUI.
+- **Frameworks**: React, Angular, Next.js, Node.js, Flask, WordPress, FastAPI, TriviaAPI.
+- **Developer Tools**: Git, VS Code, XCode, PyCharm, IntelliJ, Eclipse, Unix/Linux environments, Docker/Kubernetes.
+
+### Publications
+- Authored several articles on topics like Graphs, LinkedLists, Recursion, and Trees with significant views and interactions.
+
+### Projects
+- **AgileFlow**: Focused on DevOps transformation using Docker/Kubernetes and CI/CD with Jenkins.
+- **Distributed E-Commerce Platform**: Developed Java microservices and a Single Page Application using JavaScript.
+- **Algorithm Sorting Visualizer**: A web-based sorting visualizer built with JavaScript and React.
+- **Timber Game**: Developed a 2D game using C++ and SFML.
+
+### Other Activities
+- Produced over 200 videos on Data Structures and Algorithms on your YouTube channel.
+- Hold a Student Pilot license.
+- Teach programming to high school students.
+
+Your resume showcases a strong background in software development, particularly in Java and front-end technologies, along with experience in DevOps and teaching.
