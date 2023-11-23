@@ -1,0 +1,7 @@
+20231123	16:50:35	875838e9-d803-4b02-9226-bd6a10f96bb0	TypeError: allowedOrigins.include is not a function
+20231123	16:50:47	be31208a-39b5-49b0-9fc6-5410c86ee30c	TypeError: allowedOrigins.include is not a function
+20231123	16:51:05	a92826f5-c97e-4e23-be16-113690d2dc0f	TypeError: allowedOrigins.include is not a function
+20231123	16:51:06	fb7f6512-8d66-48ed-902f-f046ba0f206b	TypeError: allowedOrigins.include is not a function
+20231123	16:51:48	782ee94e-1f05-4b64-953b-8e61a85929ff	TypeError: allowedOrigins.include is not a function
+20231123	16:51:49	07922c72-a9de-4340-80f1-6007fd10391a	TypeError: allowedOrigins.include is not a function
+20231123	16:53:44	f49d93b6-3377-4485-9200-1031af8e9a4f	TypeError: allowedOrigins.includes is not a function
